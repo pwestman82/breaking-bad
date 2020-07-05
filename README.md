@@ -1,3 +1,5 @@
+Users can search and view characters from the TV series 'Breaking Bad'
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
